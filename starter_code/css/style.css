@@ -1,0 +1,23 @@
+.first {
+	color: lightblue;
+	font-size: 30px;
+	background-color: grey;
+	height: 400px;
+	width: 750px;
+	padding-left: 10px;
+}
+
+.banjo_cat {
+	margin-left: 200px;
+}
+
+.second {
+	color: black;
+	font-size: 18px;
+	font-family: Arial;
+	background-color: hotpink;
+	height: 200px;
+	width: 550px;
+	padding-left: 10px;
+	float: right;
+}
