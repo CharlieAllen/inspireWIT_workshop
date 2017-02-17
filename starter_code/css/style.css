@@ -1,23 +1,39 @@
-.first {
-	color: lightblue;
-	font-size: 30px;
-	background-color: grey;
-	height: 400px;
-	width: 750px;
-	padding-left: 10px;
+body {
+	background-image: url("http://wallpapercave.com/wp/mNxQh0d.jpg");
 }
 
-.banjo_cat {
-	margin-left: 200px;
+.first {
+	color: blue;
+	font-size: 20px;
+	width: 600px;
+	height: 200px;
+	padding-left: 10px;
+	border: 2px solid purple;
+	border-radius: 10px;
+	margin-left: 450px;
+}
+
+a {
+	cursor: pointer;
+}
+
+.first:hover {
+	background-color: yellow;
 }
 
 .second {
-	color: black;
-	font-size: 18px;
-	font-family: Arial;
 	background-color: hotpink;
-	height: 200px;
+	font-family: Arial;
+	font-size: 20px;
+	height: 210px;
 	width: 550px;
-	padding-left: 10px;
-	float: right;
+	padding: 10px;
+	margin-left: 450px;
+	border-radius: 10px;
+}
+
+.banjo_cat {
+	margin-left: 550px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
