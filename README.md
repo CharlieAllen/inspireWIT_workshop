@@ -1,5 +1,8 @@
 # inspireWIT_workshop
 
+## Workshop Slides 
+[What's a web page made of?](https://www.slideshare.net/CharlieAllen6/whats-a-web-page-made-of) - Slides from teh workshop
+
 ## Online Resources:
 [Codecademy](www.codecademy.com) - Interactive tutorials to learn HTML, CSS, JavaScript, Ruby and more.
 
